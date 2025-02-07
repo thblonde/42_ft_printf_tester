@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd ..; make >/dev/null
 rm -rf trace
 
